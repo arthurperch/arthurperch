@@ -1,9 +1,9 @@
 
-<h1>
- Hi, I'm an experienced <a href="https://www.linkedin.com/in/oleg-perchatkin-b90472161/">Programmer/IT Professional.</a></h1> I specialize in object-oriented programming and web application development. I'm passionate about using my knowledge to create innovative solutions and further my skillset.
-</a></h1>
+<h2>
+ Hi My name is Arthur, I have half a decade of experience in <a href="https://www.linkedin.com/in/oleg-perchatkin-b90472161/">Programming/IT.</a></h1> I specialize in object-oriented programming and web application development. I'm passionate about using my knowledge to create innovative solutions and further my skillset.
+</a></h2>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h3>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/arthurperch/osticket-prereqs)
