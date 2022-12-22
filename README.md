@@ -1,6 +1,6 @@
 
 <h2>
- Hi My name is Arthur, I have half a decade of experience in <a href="https://www.linkedin.com/in/oleg-perchatkin-b90472161/">Programming/IT.</a></h1> I specialize in object-oriented programming and web application development. I'm passionate about using my knowledge to create innovative solutions and further my skillset.
+ Hi My name is Arthur, I have half a decade of experience in <a href="https://www.linkedin.com/in/oleg-p-b90472161/">Programming/IT.</a></h1> I specialize in object-oriented programming and web application development. I'm passionate about using my knowledge to create innovative solutions and further my skillset.
 </a></h2>
 
 <h3>👨‍💻 Information Technology Projects:</h2>
@@ -21,4 +21,4 @@
 
 [twitter]: https://twitter.com/
 [instagram]: https://www.instagram.com/sky_is_ocean/
-[linkedin]: https://www.linkedin.com/in/oleg-perchatkin-b90472161/
+[linkedin]: https://www.linkedin.com/in/oleg-p-b90472161/
