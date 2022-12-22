@@ -21,4 +21,4 @@
 
 [twitter]: https://twitter.com/
 [instagram]: https://www.instagram.com/
-[linkedin]: https://linkedin.com/in/](https://www.linkedin.com/in/oleg-perchatkin-b90472161/
+[linkedin]: https://www.linkedin.com/in/oleg-perchatkin-b90472161/
