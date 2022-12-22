@@ -1,4 +1,4 @@
-<h1>Hi, I'm Arthur, an <a href="https://www.linkedin.com/in/oleg-perchatkin-b90472161/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Arthur, an <a href="https://www.linkedin.com/in/oleg-perchatkin-b90472161/">IT Professional</a>#emoji</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
