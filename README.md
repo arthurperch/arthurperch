@@ -1,4 +1,4 @@
-<h1>Hi, I'm Arthur, I Study <a href="https://www.linkedin.com/in/oleg-perchatkin-b90472161/">Computer Science</a></h1>
+<h1>Hi, I'm Arthur, a comp sci student & a <a href="https://www.linkedin.com/in/oleg-perchatkin-b90472161/">Programming Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
