@@ -2,8 +2,7 @@
 
 
 
-<h3>I have gained experience in this field through various projects and courses,
- Here you will see what excites me, is to teach others with my easy to read tutorial guides.</h3>
+<h3>I have gained experience in this field through various projects and courses with my easy guides.</h3>
 
  
 
