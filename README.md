@@ -1,6 +1,9 @@
 <h1 style="color:purple; font-family:Arial">Hello, my name is Arthur.</h1>
 <h3 style="color:purple; font-family:Arial">My background is in <a href="https://www.linkedin.com/in/oleg-p-b90472161/" style="color:purple; font-family:Arial">Programming & IT</a>.</h3>
-<h3 style="color:purple; font-family:Arial">I have gained experience in this field through various projects and courses. I am excited to continue learning and growing as a programmer.</h3>
+<h3 style="color:purple; font-family:Arial">I have gained experience in this field through various projects and courses. </h3>
+<h3> I am excited to continue learning and growing as a programmer!</h3>
+
+ 
 
 <h3>👨‍💻 Information Technology Projects:</h2>
 
