@@ -1,4 +1,4 @@
-<h1> Hello, my name is Arthur, I'm an expert in <a href="https://www.linkedin.com/in/oleg-p-b90472161/">Programming & IT</a></h1>
+<h1> My name is Arthur, I'm an expert in <a href="https://www.linkedin.com/in/oleg-p-b90472161/">Programming & IT</a></h1>
 
 
 
