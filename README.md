@@ -1,7 +1,8 @@
 
-<h2>
- Hi, I'm Arthur, exstensive experance in <a href="https://www.linkedin.com/in/oleg-p-b90472161/">Programming.</a></h1> I specialize in object-oriented programming and web application development. I'm passionate about using my knowledge to create innovative solutions and further my skillset.
-</a></h2>
+<h3>
+ 
+ Hello, my name is Arthur. I have a background in <a href="https://www.linkedin.com/in/oleg-p-b90472161/">Programming & IT.</a> and have gained experience in this field through various projects and courses
+</a></h3>
 
 <h3>👨‍💻 Information Technology Projects:</h2>
 
