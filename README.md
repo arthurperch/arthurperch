@@ -2,8 +2,8 @@
 
 
 
-<h3 style="color:purple; font-family:Arial">I have gained experience in this field through various projects and courses, </h3>
-<h3> Here you will see what excites me, is to teach others with my easy to read tutorial guides.</h3>
+<h3>I have gained experience in this field through various projects and courses,
+ Here you will see what excites me, is to teach others with my easy to read tutorial guides.</h3>
 
  
 
