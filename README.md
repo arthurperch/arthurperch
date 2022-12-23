@@ -2,7 +2,7 @@
 
 
 
-<h3>I have gained experience in this field through various projects and courses with my easy guides.</h3>
+<h3>I have gained experience in this field through various projects.</h3>
 
  
 
