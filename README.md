@@ -1,6 +1,6 @@
 
 <h2>
- Hi My name is Arthur, my experience are in <a href="https://www.linkedin.com/in/oleg-p-b90472161/">Programming/IT.</a></h1> I specialize in object-oriented programming and web application development. I'm passionate about using my knowledge to create innovative solutions and further my skillset.
+ Hi My name is Arthur, I love <a href="https://www.linkedin.com/in/oleg-p-b90472161/">Programming/Tech.</a></h1> I specialize in object-oriented programming and web application development. I'm passionate about using my knowledge to create innovative solutions and further my skillset.
 </a></h2>
 
 <h3>👨‍💻 Information Technology Projects:</h2>
