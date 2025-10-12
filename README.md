@@ -9,9 +9,6 @@
 
 </div>
 
----
-
-## 🚀 About Me
 
 ```python
 class CloudEngineer:
