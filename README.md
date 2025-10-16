@@ -76,7 +76,7 @@ I architect and automate cloud infrastructure at scale. From building secure AWS
 
 ---
 
-## 🌟 Featured Projects
+<img width="1196" height="796" alt="image" src="https://github.com/user-attachments/assets/7d88498b-5aa3-4da3-9616-2aa2ba35b04e" />
 
 <div align="center">
 
