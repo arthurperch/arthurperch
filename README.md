@@ -82,6 +82,10 @@ I architect and automate cloud infrastructure at scale. From building secure AWS
 
 # 🛡️ AWS SECURITY AUDITOR
 
+<a href="https://github.com/arthurperch/aws-security-auditor" target="_blank">
+<img width="798" height="181" alt="AWS Security Auditor Dashboard" src="https://github.com/user-attachments/assets/90fc3291-d761-401f-9380-fa62e4689b99" />
+</a>
+
 [![GitHub Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arthurperch/aws-security-auditor)
 [![AWS](https://img.shields.io/badge/AWS-Integration-FF9900?style=for-the-badge&logo=amazon-aws)](https://github.com/arthurperch/aws-security-auditor)
 [![Python](https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python)](https://github.com/arthurperch/aws-security-auditor)
@@ -111,6 +115,10 @@ I architect and automate cloud infrastructure at scale. From building secure AWS
 <div align="center">
 
 # 🧩 E-COMMERCE ANALYTICS PLATFORM
+
+<a href="https://github.com/arthurperch/ecommerce-analytics-platform" target="_blank">
+<img width="794" height="173" alt="E-Commerce Analytics Dashboard" src="https://github.com/user-attachments/assets/cd2783e9-b1c2-4e39-a544-7930ccd47bc0" />
+</a>
 
 [![GitHub Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arthurperch/ecommerce-analytics-platform)
 [![AWS](https://img.shields.io/badge/AWS-Cloud_Native-FF9900?style=for-the-badge&logo=amazon-aws)](https://github.com/arthurperch/ecommerce-analytics-platform)
@@ -142,6 +150,10 @@ I architect and automate cloud infrastructure at scale. From building secure AWS
 
 # ⚙️ FLASK MCP SERVER (AI CLOUD OPS)
 
+<a href="https://github.com/arthurperch/flask-mcp-server" target="_blank">
+<img width="795" height="174" alt="Flask MCP Server Dashboard" src="https://github.com/user-attachments/assets/2e241fd9-08b8-4905-bb5d-1610e8f7e27a" />
+</a>
+
 [![GitHub Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arthurperch/flask-mcp-server)
 [![AI Powered](https://img.shields.io/badge/AI-Powered-8A2BE2?style=for-the-badge&logo=openai)](https://github.com/arthurperch/flask-mcp-server)
 [![Flask](https://img.shields.io/badge/Flask-Server-000000?style=for-the-badge&logo=flask)](https://github.com/arthurperch/flask-mcp-server)
@@ -172,6 +184,10 @@ I architect and automate cloud infrastructure at scale. From building secure AWS
 
 # 🎫 OSTICKET ENTERPRISE SYSTEM
 
+<a href="https://github.com/arthurperch/osTicket-postreqs" target="_blank">
+<img width="793" height="149" alt="osTicket Enterprise System" src="https://github.com/user-attachments/assets/dd066e8d-1abe-415a-9353-807132b45868" />
+</a>
+
 [![GitHub Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arthurperch/osTicket-postreqs)
 [![Azure](https://img.shields.io/badge/Azure-VM_Deployment-0078D4?style=for-the-badge&logo=microsoft-azure)](https://github.com/arthurperch/osTicket-postreqs)
 [![System Admin](https://img.shields.io/badge/Sysadmin-Expert-green?style=for-the-badge)](https://github.com/arthurperch/osTicket-postreqs)
@@ -201,6 +217,10 @@ I architect and automate cloud infrastructure at scale. From building secure AWS
 <div align="center">
 
 # 🤖 ECOMFLOW - AI CLUSTER LAB
+
+<a href="https://github.com/arthurperch/EcomFlow" target="_blank">
+<img width="527" height="155" alt="EcomFlow AI Cluster Lab" src="https://github.com/user-attachments/assets/8a6802c3-46e9-4133-ade1-da5281d4c430" />
+</a>
 
 [![GitHub Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arthurperch/EcomFlow)
 [![AI Powered](https://img.shields.io/badge/AI-LLM_Driven-8A2BE2?style=for-the-badge&logo=openai)](https://github.com/arthurperch/EcomFlow)
