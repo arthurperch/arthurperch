@@ -4,8 +4,12 @@
 
 ### ☁️ Senior Cloud Engineer | 🚀 DevOps Architect | 🤖 AI Integration Specialist
 
+<a href="https://www.credly.com/badges/6cd055da-69f3-4966-b4ab-b92fe68fa50c" target="_blank">
 <img width="300" alt="aws-certified-solutions-architect-associate" src="https://github.com/user-attachments/assets/a18adb48-b13a-4428-ada8-ba730fbb4498" />
+</a>
+<a href="https://www.credly.com/earner/earned/badge/126ff225-b7a0-4289-8b4b-88dffd75588a" target="_blank">
 <img width="300" alt="aws-certified-cloudops-engineer-associate" src="https://github.com/user-attachments/assets/7db79696-b150-4ebd-91c8-132af42436c0" />
+</a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleg-perchatkin-b90472161/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
