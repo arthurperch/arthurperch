@@ -198,6 +198,36 @@ I architect and automate cloud infrastructure at scale. From building secure AWS
 
 ---
 
+<div align="center">
+
+# 🤖 ECOMFLOW - AI CLUSTER LAB
+
+[![GitHub Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arthurperch/EcomFlow)
+[![AI Powered](https://img.shields.io/badge/AI-LLM_Driven-8A2BE2?style=for-the-badge&logo=openai)](https://github.com/arthurperch/EcomFlow)
+[![Scale](https://img.shields.io/badge/Scale-100K+_Listings-FF6B6B?style=for-the-badge)](https://github.com/arthurperch/EcomFlow)
+
+**Autonomous e-commerce intelligence system orchestrating 10-device AI cluster for marketplace dominance**
+
+🚀 **Intelligent Commerce Infrastructure:**
+
+🧠 **AI Fleet Management** - 10 mini Lenovo PCs coordinated through KVM switching infrastructure
+
+🤖 **Autonomous Listing Engine** - LLM-powered agents auto-discovering, analyzing, and listing 100,000+ items
+
+🎯 **Market Intelligence** - Real-time competitive analysis across eBay, Amazon, and AliExpress
+
+⚡ **Distributed Architecture** - 10 static IPs, 10 unique identities, complete operational resilience
+
+📊 **TypeScript Orchestration** - Production-grade automation managing inventory at unprecedented scale
+
+🔒 **Platform-Compliant Design** - Multi-device distribution ensuring account longevity and protection
+
+**Innovation at scale:** OpenAI integration, TypeScript automation, Chrome extensions, Multi-marketplace APIs - The future of autonomous commerce.
+
+</div>
+
+---
+
 ## 💼 Core Competencies
 
 <table>
