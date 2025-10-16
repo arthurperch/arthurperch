@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Oleg Arthur Perchatkin!
+# 👋 Hi, I'm Oleg Arthur Perchatkin
 
 ### 🎨 Frontend Developer | ☁️ Cloud Engineer | 🤖 AI Integration Specialist
 
@@ -81,17 +81,23 @@ I specialize in creating intuitive, performant web applications that bridge the 
 
 **Interactive data visualization platform for e-commerce insights**
 
-</div>
-
 ✨ **Key Features:**
-- 📊 **Real-time Analytics** - Live dashboards with dynamic data visualization
-- 🎯 **Interactive Charts** - Chart.js powered metrics and KPIs
-- 🔍 **Smart Filtering** - Drill down into customer behavior and sales trends
-- 📱 **Responsive Design** - Seamless experience across all devices
-- ⚡ **Fast Performance** - Optimized data processing and rendering
-- 🎨 **Modern UI** - Clean, intuitive interface with smooth animations
+
+📊 **Real-time Analytics** - Live dashboards with dynamic data visualization
+
+🎯 **Interactive Charts** - Chart.js powered metrics and KPIs
+
+🔍 **Smart Filtering** - Drill down into customer behavior and sales trends
+
+📱 **Responsive Design** - Seamless experience across all devices
+
+⚡ **Fast Performance** - Optimized data processing and rendering
+
+🎨 **Modern UI** - Clean, intuitive interface with smooth animations
 
 **Full-stack mastery:** React, Flask, Python, Chart.js, Pandas, REST APIs - I build end-to-end.
+
+</div>
 
 ---
 
@@ -105,17 +111,23 @@ I specialize in creating intuitive, performant web applications that bridge the 
 
 **Comprehensive security scanning dashboard for AWS infrastructure**
 
-</div>
-
 🔐 **Highlights:**
-- 🔍 **Security Scanning** - Automated vulnerability detection across AWS services
-- 📈 **Visual Reports** - Clear, actionable security insights and compliance metrics
-- 🎯 **Multi-Service Support** - S3, EC2, IAM, CloudTrail auditing in one interface
-- ⚠️ **Real-time Alerts** - Instant notification of security issues
-- 📊 **Compliance Dashboard** - Track adherence to security best practices
-- 🎨 **Intuitive UI** - Complex security data made accessible
+
+🔍 **Security Scanning** - Automated vulnerability detection across AWS services
+
+📈 **Visual Reports** - Clear, actionable security insights and compliance metrics
+
+🎯 **Multi-Service Support** - S3, EC2, IAM, CloudTrail auditing in one interface
+
+⚠️ **Real-time Alerts** - Instant notification of security issues
+
+📊 **Compliance Dashboard** - Track adherence to security best practices
+
+🎨 **Intuitive UI** - Complex security data made accessible
 
 **Cloud-native expertise:** AWS, React, Python, Boto3 - Security meets beautiful design.
+
+</div>
 
 ---
 
@@ -129,17 +141,53 @@ I specialize in creating intuitive, performant web applications that bridge the 
 
 **AI-powered cloud operations interface with natural language control**
 
-</div>
-
 🤖 **Innovation:**
-- 💬 **Natural Language Interface** - Control cloud infrastructure using conversational AI
-- 🔗 **MCP Integration** - Model Context Protocol for seamless AI interactions
-- ⚡ **Smart Automation** - AI-driven cloud operations and management
-- 🎯 **Flask Backend** - Robust API architecture for AI-cloud communication
-- 📊 **Operation Dashboard** - Monitor and control AI-initiated tasks
-- 🚀 **Future-Ready** - Leveraging cutting-edge AI integration patterns
+
+💬 **Natural Language Interface** - Control cloud infrastructure using conversational AI
+
+🔗 **MCP Integration** - Model Context Protocol for seamless AI interactions
+
+⚡ **Smart Automation** - AI-driven cloud operations and management
+
+🎯 **Flask Backend** - Robust API architecture for AI-cloud communication
+
+📊 **Operation Dashboard** - Monitor and control AI-initiated tasks
+
+🚀 **Future-Ready** - Leveraging cutting-edge AI integration patterns
 
 **Cutting-edge stack:** Flask, MCP Protocol, AI Integration, Python, Cloud Services - The future is now.
+
+</div>
+
+---
+
+<div align="center">
+
+# 🎫 OSTICKET ENTERPRISE SYSTEM
+
+[![GitHub Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arthurperch/osTicket-postreqs)
+[![Azure](https://img.shields.io/badge/Azure-VM_Deployment-0078D4?style=for-the-badge&logo=microsoft-azure)](https://github.com/arthurperch/osTicket-postreqs)
+[![System Admin](https://img.shields.io/badge/Sysadmin-Expert-green?style=for-the-badge)](https://github.com/arthurperch/osTicket-postreqs)
+
+**Enterprise ticketing system managing 1000+ users on Azure infrastructure**
+
+🎯 **System Administration:**
+
+🖥️ **Azure VM Deployment** - Complete server setup and configuration from scratch
+
+⚙️ **Full Installation** - IIS, PHP, MySQL database architecture and optimization
+
+👥 **User Management** - Scaled to support 1000+ concurrent users with role-based access
+
+📧 **Email Integration** - Automated ticket routing and notification system
+
+📊 **Department Configuration** - Multi-tier support structure with SLA management
+
+🔧 **Performance Tuning** - Optimized for high-volume ticket processing and response times
+
+**Enterprise infrastructure:** Azure VMs, IIS, PHP, MySQL, Active Directory - Production-scale deployment.
+
+</div>
 
 ---
 
@@ -158,11 +206,12 @@ I specialize in creating intuitive, performant web applications that bridge the 
 </td>
 <td width="50%">
 
-### ☁️ Cloud Integration
+### ☁️ Cloud & Systems Integration
 - **AWS Service Dashboards** for infrastructure management
 - **Security Monitoring Tools** with visual insights
 - **Automated Deployment** pipelines and CI/CD
-- **API Integration** connecting frontend to cloud
+- **Azure Support Experience** - osTicket system managing 1000+ users
+- **Enterprise VM Administration** on cloud platforms
 
 </td>
 </tr>
