@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Arthur
+# 👋 Hi, I'm Oleg Arthur Perchatkin!
 
 ### 🎨 Frontend Developer | ☁️ Cloud Engineer | 🤖 AI Integration Specialist
 
@@ -71,17 +71,17 @@ I specialize in creating intuitive, performant web applications that bridge the 
 
 ## 🌟 Featured Projects
 
-### 🧩 E-Commerce Analytics Platform
-
 <div align="center">
+
+# 🧩 E-COMMERCE ANALYTICS PLATFORM
 
 [![GitHub Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arthurperch/ecommerce-analytics-platform)
 [![React](https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react)](https://github.com/arthurperch/ecommerce-analytics-platform)
 [![Flask](https://img.shields.io/badge/Flask-Backend-000000?style=for-the-badge&logo=flask)](https://github.com/arthurperch/ecommerce-analytics-platform)
 
-</div>
-
 **Interactive data visualization platform for e-commerce insights**
+
+</div>
 
 ✨ **Key Features:**
 - 📊 **Real-time Analytics** - Live dashboards with dynamic data visualization
@@ -91,26 +91,21 @@ I specialize in creating intuitive, performant web applications that bridge the 
 - ⚡ **Fast Performance** - Optimized data processing and rendering
 - 🎨 **Modern UI** - Clean, intuitive interface with smooth animations
 
-**Tech Stack:**
-```
-React • Chart.js • Flask • Python • Pandas • REST API
-```
-
-Perfect demonstration of full-stack development with a focus on data visualization and user experience.
+**Full-stack mastery:** React, Flask, Python, Chart.js, Pandas, REST APIs - I build end-to-end.
 
 ---
 
-### 🛡️ AWS Security Auditor
-
 <div align="center">
+
+# 🛡️ AWS SECURITY AUDITOR
 
 [![GitHub Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arthurperch/aws-security-auditor)
 [![React](https://img.shields.io/badge/React-Dashboard-61DAFB?style=for-the-badge&logo=react)](https://github.com/arthurperch/aws-security-auditor)
 [![AWS](https://img.shields.io/badge/AWS-Integration-FF9900?style=for-the-badge&logo=amazon-aws)](https://github.com/arthurperch/aws-security-auditor)
 
-</div>
-
 **Comprehensive security scanning dashboard for AWS infrastructure**
+
+</div>
 
 🔐 **Highlights:**
 - 🔍 **Security Scanning** - Automated vulnerability detection across AWS services
@@ -120,26 +115,21 @@ Perfect demonstration of full-stack development with a focus on data visualizati
 - 📊 **Compliance Dashboard** - Track adherence to security best practices
 - 🎨 **Intuitive UI** - Complex security data made accessible
 
-**Tech Stack:**
-```
-React • Python • Boto3 • AWS Services • Data Visualization
-```
-
-Bridges cloud security with user-friendly frontend design for better infrastructure management.
+**Cloud-native expertise:** AWS, React, Python, Boto3 - Security meets beautiful design.
 
 ---
 
-### ⚙️ Flask MCP Server (AI Cloud Ops)
-
 <div align="center">
+
+# ⚙️ FLASK MCP SERVER (AI CLOUD OPS)
 
 [![GitHub Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arthurperch/flask-mcp-server)
 [![AI Powered](https://img.shields.io/badge/AI-Powered-8A2BE2?style=for-the-badge&logo=openai)](https://github.com/arthurperch/flask-mcp-server)
 [![Flask](https://img.shields.io/badge/Flask-Server-000000?style=for-the-badge&logo=flask)](https://github.com/arthurperch/flask-mcp-server)
 
-</div>
-
 **AI-powered cloud operations interface with natural language control**
+
+</div>
 
 🤖 **Innovation:**
 - 💬 **Natural Language Interface** - Control cloud infrastructure using conversational AI
@@ -149,12 +139,7 @@ Bridges cloud security with user-friendly frontend design for better infrastruct
 - 📊 **Operation Dashboard** - Monitor and control AI-initiated tasks
 - 🚀 **Future-Ready** - Leveraging cutting-edge AI integration patterns
 
-**Tech Stack:**
-```
-Flask • MCP Protocol • AI Integration • Python • REST API • Cloud Services
-```
-
-Showcases the intersection of AI, cloud engineering, and modern web development.
+**Cutting-edge stack:** Flask, MCP Protocol, AI Integration, Python, Cloud Services - The future is now.
 
 ---
 
