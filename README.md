@@ -1,7 +1,8 @@
 <div align="center">
-  
 
-### ☁️ Cloud Engineer | 🚀 DevOps Enthusiast | ⚡ Infrastructure Automation
+# 👋 Hi, I'm Arthur
+
+### 🎨 Frontend Developer | ☁️ Cloud Engineer | 🤖 AI Integration Specialist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleg-p-b90472161/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
@@ -9,31 +10,36 @@
 
 </div>
 
+---
 
-```python
-class CloudEngineer:
-    def __init__(self):
-        self.name = "Arthur"
-        self.role = "Cloud & DevOps Engineer"
-        self.location = "Building in the Cloud ☁️"
-        self.passions = ["Infrastructure as Code", "Automation", "Cloud Architecture"]
+```javascript
+class FullStackDeveloper {
+    constructor() {
+        this.name = "Arthur";
+        this.role = "Frontend Developer & Cloud Engineer";
+        this.location = "Building Beautiful Interfaces ✨";
+        this.passions = ["User Experience", "Cloud Integration", "AI-Powered Apps"];
+    }
     
-    def current_focus(self):
+    currentFocus() {
         return [
-            "Building scalable AWS infrastructure",
-            "Automating deployments with Terraform",
-            "Implementing CI/CD pipelines",
-            "Mastering container orchestration"
-        ]
+            "Building responsive React applications",
+            "Integrating cloud services with modern UIs",
+            "Creating data visualization dashboards",
+            "Developing AI-powered web tools"
+        ];
+    }
     
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together 🚀")
+    sayHi() {
+        console.log("Thanks for visiting! Let's build something beautiful together 🚀");
+    }
+}
 
-me = CloudEngineer()
-me.say_hi()
+const me = new FullStackDeveloper();
+me.sayHi();
 ```
 
-I'm passionate about transforming complex infrastructure challenges into elegant, automated solutions. Whether it's architecting cloud environments, building CI/CD pipelines, or optimizing system performance, I love turning ideas into production-ready systems.
+I specialize in creating intuitive, performant web applications that bridge the gap between cloud infrastructure and user experience. From interactive dashboards to AI-powered tools, I build interfaces that make complex systems accessible and delightful to use.
 
 ---
 
@@ -41,91 +47,137 @@ I'm passionate about transforming complex infrastructure challenges into elegant
 
 <div align="center">
 
-### ☁️ Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### 🎨 Frontend & UI
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 💻 Languages & Frameworks
+### 🔧 Backend & Cloud
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### 🔧 DevOps & Tools
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 📊 Data & Visualization
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white)
+![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 </div>
 
 ---
 
-## 🌟 Featured Project
+## 🌟 Featured Projects
 
-### [☁️ Cloud Infrastructure with Flask App](https://github.com/arthurperch/Cloud-Infrastructure-Flask-App)
+### 🧩 E-Commerce Analytics Platform
 
 <div align="center">
 
-[![GitHub Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arthurperch/Cloud-Infrastructure-Flask-App)
-[![Terraform](https://img.shields.io/badge/Terraform-IaC-7B42BC?style=for-the-badge&logo=terraform)](https://github.com/arthurperch/Cloud-Infrastructure-Flask-App)
-[![AWS](https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazon-aws)](https://github.com/arthurperch/Cloud-Infrastructure-Flask-App)
+[![GitHub Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arthurperch/ecommerce-analytics-platform)
+[![React](https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react)](https://github.com/arthurperch/ecommerce-analytics-platform)
+[![Flask](https://img.shields.io/badge/Flask-Backend-000000?style=for-the-badge&logo=flask)](https://github.com/arthurperch/ecommerce-analytics-platform)
 
 </div>
 
-**Production-grade AWS infrastructure deployed with Terraform & automated CI/CD**
+**Interactive data visualization platform for e-commerce insights**
 
-🎯 **What makes it special:**
-- 🏗️ **Complete IaC implementation** - 100% Terraform-managed AWS infrastructure
-- 🔄 **Automated CI/CD** - GitHub Actions pipeline deploying on every push
-- 📊 **Enterprise monitoring** - CloudWatch dashboards with alerting
-- 🔒 **Security-first** - HTTPS, IAM roles, security groups, and auto-scaling
-- 🚀 **Production-ready** - Nginx + Gunicorn + systemd architecture
-- ⚖️ **Auto-scaling** - Dynamic capacity based on real-time metrics
+✨ **Key Features:**
+- 📊 **Real-time Analytics** - Live dashboards with dynamic data visualization
+- 🎯 **Interactive Charts** - Chart.js powered metrics and KPIs
+- 🔍 **Smart Filtering** - Drill down into customer behavior and sales trends
+- 📱 **Responsive Design** - Seamless experience across all devices
+- ⚡ **Fast Performance** - Optimized data processing and rendering
+- 🎨 **Modern UI** - Clean, intuitive interface with smooth animations
 
-**Tech Highlights:**
+**Tech Stack:**
 ```
-AWS (VPC, EC2, ALB, S3) • Terraform • GitHub Actions
-Flask • Nginx • Gunicorn • CloudWatch • Auto Scaling
+React • Chart.js • Flask • Python • Pandas • REST API
 ```
 
-This project demonstrates end-to-end cloud infrastructure automation, from development to production deployment, showcasing modern DevOps practices and cloud-native architecture.
+Perfect demonstration of full-stack development with a focus on data visualization and user experience.
 
 ---
 
-## 💼 Professional Projects
+### 🛡️ AWS Security Auditor
+
+<div align="center">
+
+[![GitHub Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arthurperch/aws-security-auditor)
+[![React](https://img.shields.io/badge/React-Dashboard-61DAFB?style=for-the-badge&logo=react)](https://github.com/arthurperch/aws-security-auditor)
+[![AWS](https://img.shields.io/badge/AWS-Integration-FF9900?style=for-the-badge&logo=amazon-aws)](https://github.com/arthurperch/aws-security-auditor)
+
+</div>
+
+**Comprehensive security scanning dashboard for AWS infrastructure**
+
+🔐 **Highlights:**
+- 🔍 **Security Scanning** - Automated vulnerability detection across AWS services
+- 📈 **Visual Reports** - Clear, actionable security insights and compliance metrics
+- 🎯 **Multi-Service Support** - S3, EC2, IAM, CloudTrail auditing in one interface
+- ⚠️ **Real-time Alerts** - Instant notification of security issues
+- 📊 **Compliance Dashboard** - Track adherence to security best practices
+- 🎨 **Intuitive UI** - Complex security data made accessible
+
+**Tech Stack:**
+```
+React • Python • Boto3 • AWS Services • Data Visualization
+```
+
+Bridges cloud security with user-friendly frontend design for better infrastructure management.
+
+---
+
+### ⚙️ Flask MCP Server (AI Cloud Ops)
+
+<div align="center">
+
+[![GitHub Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arthurperch/flask-mcp-server)
+[![AI Powered](https://img.shields.io/badge/AI-Powered-8A2BE2?style=for-the-badge&logo=openai)](https://github.com/arthurperch/flask-mcp-server)
+[![Flask](https://img.shields.io/badge/Flask-Server-000000?style=for-the-badge&logo=flask)](https://github.com/arthurperch/flask-mcp-server)
+
+</div>
+
+**AI-powered cloud operations interface with natural language control**
+
+🤖 **Innovation:**
+- 💬 **Natural Language Interface** - Control cloud infrastructure using conversational AI
+- 🔗 **MCP Integration** - Model Context Protocol for seamless AI interactions
+- ⚡ **Smart Automation** - AI-driven cloud operations and management
+- 🎯 **Flask Backend** - Robust API architecture for AI-cloud communication
+- 📊 **Operation Dashboard** - Monitor and control AI-initiated tasks
+- 🚀 **Future-Ready** - Leveraging cutting-edge AI integration patterns
+
+**Tech Stack:**
+```
+Flask • MCP Protocol • AI Integration • Python • REST API • Cloud Services
+```
+
+Showcases the intersection of AI, cloud engineering, and modern web development.
+
+---
+
+## 💼 What I Build
 
 <table>
 <tr>
 <td width="50%">
 
-### ☁️ Cloud & DevOps
-**[AWS Infrastructure Automation](https://github.com/arthurperch/Cloud-Infrastructure-Flask-App)**
-- Complete IaC with Terraform
-- CI/CD with GitHub Actions
-- Production Flask deployment
-- CloudWatch monitoring
-
-**[Azure Network Protocols](https://github.com/arthurperch/Azure-network-proto)**
-- Network Security Groups
-- Traffic inspection & analysis
-- Protocol configuration
+### 🎨 Frontend Focus
+- **Interactive Dashboards** with real-time data
+- **Data Visualization** tools and analytics platforms
+- **Responsive Web Apps** with modern frameworks
+- **AI-powered Interfaces** for complex systems
 
 </td>
 <td width="50%">
 
-### 🖥️ Systems & Administration
-**[Active Directory on Azure](https://github.com/arthurperch/Configure-Active-Directory)**
-- On-premises AD setup
-- Azure VM configuration
-- User management
-
-**[osTicket Implementation](https://github.com/arthurperch/osticket-prereqs)**
-- [Prerequisites & Installation](https://github.com/arthurperch/osticket-prereqs)
-- [Post-Install Configuration](https://github.com/arthurperch/osTicket-postreqs)
-- [Ticket Lifecycle Management](https://github.com/arthurperch/osTicket-LifeCycle)
+### ☁️ Cloud Integration
+- **AWS Service Dashboards** for infrastructure management
+- **Security Monitoring Tools** with visual insights
+- **Automated Deployment** pipelines and CI/CD
+- **API Integration** connecting frontend to cloud
 
 </td>
 </tr>
@@ -144,38 +196,39 @@ This project demonstrates end-to-end cloud infrastructure automation, from devel
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Currently Exploring
 
 ```yaml
-learning:
-  - Container orchestration (Kubernetes, ECS)
-  - Advanced Terraform patterns
-  - Infrastructure security hardening
-  - Multi-cloud strategies
+frontend:
+  - Advanced React patterns and hooks
+  - TypeScript for type-safe applications
+  - Next.js for full-stack React apps
+  - Modern CSS architectures
 
-building:
-  - Scalable microservices architecture
-  - Automated deployment pipelines
-  - Observability & monitoring systems
-  - Cost-optimized cloud solutions
+integration:
+  - AI/ML model deployment in web apps
+  - WebSocket for real-time features
+  - GraphQL APIs
+  - Progressive Web Apps (PWA)
 
-next_up:
-  - AWS certifications (Solutions Architect, DevOps Engineer)
-  - Open source contributions
-  - Technical blog & documentation
+design:
+  - UI/UX best practices
+  - Accessibility standards
+  - Performance optimization
+  - Animation and micro-interactions
 ```
 
 ---
 
-## 💡 What I'm Into
+## 💡 Why Work With Me
 
 <div align="center">
 
-| 🏗️ **Building** | 🎓 **Learning** | 🤝 **Collaborating** |
+| 🎨 **Design-First** | ⚡ **Performance-Focused** | 🔗 **Cloud-Native** |
 |:---:|:---:|:---:|
-| Scalable cloud architectures | Advanced Kubernetes | Open source DevOps tools |
-| CI/CD automation | Cloud security | Infrastructure projects |
-| Infrastructure as Code | System design patterns | Tech communities |
+| Beautiful, intuitive interfaces | Optimized, fast-loading apps | Seamless cloud integration |
+| User experience priority | Efficient code practices | Scalable architecture |
+| Responsive across devices | SEO-friendly development | Security-conscious design |
 
 </div>
 
@@ -183,15 +236,15 @@ next_up:
 
 ## 📫 Let's Connect
 
-I'm always excited to collaborate on interesting projects or discuss cloud architecture, DevOps practices, and automation strategies!
+Interested in collaborating on frontend projects, discussing web development, or building cloud-integrated applications? Let's chat!
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleg-p-b90472161/)
 [![Email](https://img.shields.io/badge/Send_Me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Twitter](https://img.shields.io/badge/Follow_on_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![Portfolio](https://img.shields.io/badge/View_My_Work-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arthurperch)
 
-**Open to:** Cloud architecture discussions • DevOps collaborations • Open source contributions
+**Open to:** Frontend development roles • Full-stack opportunities • Cloud integration projects
 
 </div>
 
@@ -199,9 +252,9 @@ I'm always excited to collaborate on interesting projects or discuss cloud archi
 
 <div align="center">
 
-### 💭 _"The best way to predict the future is to build it."_
+### 💭 _"Great design is invisible, great code is readable, and great products are both."_
 
-**Thanks for stopping by!** ⭐ Feel free to star repos you find interesting!
+**Thanks for stopping by!** ⭐ Star repos you find interesting and let's build something amazing!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=arthurperch&color=blueviolet&style=for-the-badge)
 
