@@ -7,7 +7,7 @@
 <img width="300" alt="aws-certified-solutions-architect-associate" src="https://github.com/user-attachments/assets/a18adb48-b13a-4428-ada8-ba730fbb4498" />
 <img width="300" alt="aws-certified-cloudops-engineer-associate" src="https://github.com/user-attachments/assets/7db79696-b150-4ebd-91c8-132af42436c0" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleg-p-b90472161/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleg-perchatkin-b90472161/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sky_is_ocean/)
 
@@ -295,7 +295,7 @@ Open to discussing cloud architecture, DevOps strategies, security automation, a
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleg-p-b90472161/)
-[![Email](https://img.shields.io/badge/Send_Me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Send_Me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:olegperchatkin@gmail.com)
 [![Portfolio](https://img.shields.io/badge/View_My_Work-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arthurperch)
 
 **Open to:** Senior Cloud Engineer roles • DevOps Architect positions • Cloud Security leadership • Infrastructure automation projects
