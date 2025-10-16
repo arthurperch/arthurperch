@@ -1,5 +1,7 @@
 <div align="center">
 
+# 👋 Hi, I'm Oleg Arthur Perchatkin
+
 ### ☁️ Senior Cloud Engineer | 🚀 DevOps Architect | 🤖 AI Integration Specialist
 
 <a href="https://www.credly.com/badges/6cd055da-69f3-4966-b4ab-b92fe68fa50c" target="_blank">
@@ -73,8 +75,8 @@ I architect and automate cloud infrastructure at scale. From building secure AWS
 </div>
 
 ---
-#featured Porject top banner
-<img width="1190" height="573" alt="image" src="https://github.com/user-attachments/assets/85e381bb-3ff4-4c28-b348-0372aa04453f" />
+
+## 🌟 Featured Projects
 
 <div align="center">
 
@@ -217,7 +219,7 @@ I architect and automate cloud infrastructure at scale. From building secure AWS
 # 🤖 ECOMFLOW - AI CLUSTER LAB
 
 <a href="https://github.com/arthurperch/EcomFlow" target="_blank">
-<img width="527" height="155" alt="EcomFlow AI Cluster Lab" src="https://github.com/user-attachments/assets/8a6802c3-46e9-4133-ade1-da5281d4c430" />
+<img width="793" height="155" alt="EcomFlow AI Cluster Lab" src="https://github.com/user-attachments/assets/8a6802c3-46e9-4133-ade1-da5281d4c430" />
 </a>
 
 [![GitHub Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arthurperch/EcomFlow)
