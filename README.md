@@ -81,6 +81,7 @@ I architect and automate cloud infrastructure at scale. From building secure AWS
 <div align="center">
 
 # 🛡️ AWS SECURITY AUDITOR
+<img width="798" height="181" alt="image" src="https://github.com/user-attachments/assets/90fc3291-d761-401f-9380-fa62e4689b99" />
 
 [![GitHub Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arthurperch/aws-security-auditor)
 [![AWS](https://img.shields.io/badge/AWS-Integration-FF9900?style=for-the-badge&logo=amazon-aws)](https://github.com/arthurperch/aws-security-auditor)
