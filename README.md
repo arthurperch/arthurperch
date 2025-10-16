@@ -1,7 +1,5 @@
 <div align="center">
 
-# 👋 Hi, I'm Oleg Arthur Perchatkin
-
 ### ☁️ Senior Cloud Engineer | 🚀 DevOps Architect | 🤖 AI Integration Specialist
 
 <a href="https://www.credly.com/badges/6cd055da-69f3-4966-b4ab-b92fe68fa50c" target="_blank">
@@ -75,8 +73,8 @@ I architect and automate cloud infrastructure at scale. From building secure AWS
 </div>
 
 ---
-
-<img width="1196" height="796" alt="image" src="https://github.com/user-attachments/assets/7d88498b-5aa3-4da3-9616-2aa2ba35b04e" />
+#featured Porject top banner
+<img width="1190" height="573" alt="image" src="https://github.com/user-attachments/assets/85e381bb-3ff4-4c28-b348-0372aa04453f" />
 
 <div align="center">
 
