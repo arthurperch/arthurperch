@@ -219,7 +219,7 @@ I architect and automate cloud infrastructure at scale. From building secure AWS
 # 🤖 ECOMFLOW - AI CLUSTER LAB
 
 <a href="https://github.com/arthurperch/EcomFlow" target="_blank">
-<img width="793" height="155" alt="EcomFlow AI Cluster Lab" src="https://github.com/user-attachments/assets/8a6802c3-46e9-4133-ade1-da5281d4c430" />
+<img width="793" height="229" alt="EcomFlow AI Cluster Lab" src="https://github.com/user-attachments/assets/e1ee5c9c-bcde-4009-8e93-e956acf55b08" />
 </a>
 
 [![GitHub Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arthurperch/EcomFlow)
