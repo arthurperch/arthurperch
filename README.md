@@ -1,6 +1,5 @@
 <div align="center">
 
-# 👋 Hi, I'm Oleg Arthur Perchatkin
 
 ### ☁️ Senior Cloud Engineer | 🚀 DevOps Architect | 🤖 AI Integration Specialist
 
