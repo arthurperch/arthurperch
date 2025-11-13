@@ -38,7 +38,7 @@ class SeniorCloudEngineer:
     def philosophy(self):
         return "Automate everything. Secure by default. Scale infinitely."
 
-me = SeniorCloudEngineer()
+me = CloudEngineer()
 print(me.philosophy())
 ```
 
