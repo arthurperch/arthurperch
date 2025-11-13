@@ -1,7 +1,7 @@
 <div align="center">
 
 
-### ☁️ Senior Cloud Engineer | 🚀 DevOps Architect | 🤖 AI Integration Specialist
+### ☁️Cloud & DevOps Engineer (Entry-Level) | AWS Certified (2x) | Automation & Security Projects
 
 <a href="https://www.credly.com/badges/6cd055da-69f3-4966-b4ab-b92fe68fa50c" target="_blank">
 <img width="210" alt="aws-certified-solutions-architect-associate" src="https://github.com/user-attachments/assets/a18adb48-b13a-4428-ada8-ba730fbb4498" />
