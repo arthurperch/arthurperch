@@ -20,7 +20,7 @@
 
 ## 👋 About Me
 
-I'm an **IT Support professional** with 2.5 years of experience supporting 30,000+ users, AWS certifications, and hands-on enterprise infrastructure labs. Currently seeking Help Desk, Cloud Support, or Junior SysAdmin roles to continue growing my technical skills.
+I'm an **IT Support professional** AWS certifications, and hands-on enterprise infrastructure labs. Currently seeking Help Desk, Cloud Support, or Junior SysAdmin roles to continue growing my technical skills.
 
 **What I bring:**
 - 🎓 **AWS Solutions Architect** & **SysOps Administrator** certified
