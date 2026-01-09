@@ -2,7 +2,7 @@
 
 # Oleg Perchatkin
 
-### | AWS-Certified Cloud Engineer | Building Production-Grade Projects |
+### | IT Support Professional | AWS Certified | Building Enterprise-Grade Labs |
 
 <a href="https://www.credly.com/badges/6cd055da-69f3-4966-b4ab-b92fe68fa50c" target="_blank">
 <img width="210" alt="aws-certified-solutions-architect-associate" src="https://github.com/user-attachments/assets/a18adb48-b13a-4428-ada8-ba730fbb4498" />
@@ -20,51 +20,55 @@
 
 ## 👋 About Me
 
-I'm a **self-taught cloud engineer** with AWS certifications and hands-on experience building production-style infrastructure projects. I learn by breaking things, fixing them, and documenting everything along the way.
+I'm an **IT Support professional** with 2.5 years of experience supporting 30,000+ users, AWS certifications, and hands-on enterprise infrastructure labs. Currently seeking Help Desk, Cloud Support, or Junior SysAdmin roles to continue growing my technical skills.
 
 **What I bring:**
-- 🎓 **AWS Solutions Architect Associate** & **SysOps Administrator** certified
-- 🔧 Real infrastructure ownership (25+ ATMs with security monitoring)
-- 🛠️ Portfolio of cloud automation, security, and AI projects
-- 📚 Strong troubleshooting mindset and love for learning how systems fail
-- 🎯 **Currently seeking:** Help Desk, Cloud Support, NOC, Junior SysAdmin, or any entry-level IT role to break into the industry
+- 🎓 **AWS Solutions Architect** & **SysOps Administrator** certified
+- 🛠️ Enterprise-grade labs: iOS MDM, Active Directory, Microsoft 365
+- 🔧 **ServiceNow, Active Directory, Microsoft 365** production experience
+- 🎯 **95% ticket resolution rate** supporting 30K+ users
+- 📚 Strong troubleshooting mindset - I learn by understanding how systems break
 
 ```python
-class CloudEngineerInTraining:
+class ITSupportProfessional:
     def __init__(self):
         self.name = "Oleg Perchatkin"
+        self.experience = "2.5 years Tier 2 IT Support"
         self.certifications = ["AWS Solutions Architect", "AWS SysOps Administrator"]
         self.location = "Pacific Northwest, USA"
-        self.goal = "Break into IT and grow into Cloud/DevOps roles"
+        self.goal = "Grow from Help Desk → Cloud/DevOps Engineer"
         
     def current_skills(self):
         return {
-            "cloud": ["AWS (EC2, VPC, IAM, RDS, ALB)", "Azure basics", "Terraform"],
-            "languages": ["Python", "Bash", "JavaScript/TypeScript"],
-            "ops": ["Linux admin", "Networking", "Troubleshooting", "Documentation"],
+            "support": ["ServiceNow", "Active Directory", "M365", "Troubleshooting"],
+            "cloud": ["AWS (EC2, VPC, IAM, RDS)", "Azure", "Terraform"],
+            "platforms": ["Windows Server", "Linux", "iOS MDM (Jamf Now)"],
+            "tools": ["PowerShell", "Bash", "Python", "Git"],
             "mindset": "Understand how things break, not just how they work"
         }
     
     def seeking(self):
-        return "Entry-level IT role to apply skills and learn from experienced teams"
+        return "Help Desk, Cloud Support, NOC, or Junior SysAdmin roles"
 
-me = CloudEngineerInTraining()
-print(me.seeking())
+me = ITSupportProfessional()
+print(f"{me.experience} | {me.seeking()}")
 ```
 
 ---
 
 ## 🎯 Why I'm Different
 
-Most entry-level candidates have only certifications. I've built actual projects that demonstrate **production-grade thinking**:
+Most Help Desk candidates have basic troubleshooting skills. I combine **real enterprise support experience** with **advanced technical labs** that demonstrate production-grade thinking:
 
-- ✅ Created infrastructure with proper **debugging runbooks** and **incident logs**
-- ✅ Built security automation tools that scan **real AWS resources**
-- ✅ Deployed multi-tier systems with **load balancers, databases, and monitoring**
-- ✅ Own and secure **real infrastructure** (ATM network with penetration testing)
-- ✅ Document failures and fixes like a **senior engineer would**
+- ✅ **2.5 years supporting 30,000+ users** with 95% resolution rate
+- ✅ **ServiceNow ticketing** experience (250+ tickets/week)
+- ✅ **Active Directory** and **Microsoft 365** in production environments
+- ✅ Built **iOS Fleet Management lab** with Jamf Now MDM (3 physical iPhones)
+- ✅ Deployed **10,000-user Active Directory** environment in Azure
+- ✅ Created enterprise labs with **professional documentation** on GitHub
+- ✅ AWS certified with hands-on cloud infrastructure experience
 
-I don't just know how to build things — I know how they fail and how to fix them.
+I don't just close tickets — I understand the underlying systems and can grow into advanced roles.
 
 ---
 
@@ -72,36 +76,148 @@ I don't just know how to build things — I know how they fail and how to fix th
 
 <div align="center">
 
+### 💼 IT Support & Operations
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-00A1E0?style=for-the-badge&logo=servicenow&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
 ### ☁️ Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 💻 Development & Automation
+### 🔧 Mobile Device Management
+![Jamf](https://img.shields.io/badge/Jamf_Now-FF6B00?style=for-the-badge&logo=jamf&logoColor=white)
+![Microsoft Intune](https://img.shields.io/badge/Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS_MDM-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+### 💻 Automation & Scripting
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### 🔧 Tools & Platforms
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Enterprise Lab Projects
 
-> These projects demonstrate production-grade engineering practices: proper documentation, debugging workflows, and real-world problem solving.
+> These labs demonstrate enterprise IT skills through hands-on projects with professional documentation.
 
 <div align="center">
 
-### 🛡️ AWS Security Auditor
-**Automated security scanning and compliance monitoring**
+### 📱 iOS Fleet Management Lab
+**Enterprise Mobile Device Management with Jamf Now**
+
+[![View Lab](https://img.shields.io/badge/View_Lab-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arthurperch/ios-fleet-management)
+
+</div>
+
+**What I built:** Configured and managed **3 physical iPhones** using **Jamf Now MDM platform**, creating role-based security profiles (Executive, Sales, Field Tech) with different access levels, passcode policies, and compliance settings.
+
+**Skills demonstrated:**
+- ✅ **Jamf Now MDM** platform administration (industry-standard iOS management)
+- ✅ **Role-based security profiles** for different user types
+- ✅ **Mobile device enrollment** and lifecycle management
+- ✅ **Policy enforcement**: passcode requirements, app restrictions, WiFi profiles
+- ✅ **Remote management**: device lock, app deployment, compliance monitoring
+- ✅ **Real physical devices** (not just theory or simulators)
+
+**Why this matters:** 95% of Help Desk candidates have zero MDM experience. This demonstrates hands-on enterprise mobile management skills that directly apply to modern IT support roles.
+
+---
+
+<div align="center">
+
+### 🏢 Active Directory & Azure Infrastructure Lab
+**10,000-User Enterprise Domain Environment**
+
+[![View Lab](https://img.shields.io/badge/View_Lab-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arthurperch/active-directory-azure-lab)
+
+</div>
+
+**What I built:** Deployed Windows Server 2022 Domain Controller in Azure with **10,000 user accounts** created via PowerShell automation. Configured Group Policy security (account lockout: 5 attempts), joined Windows 10 client to domain, and documented the entire build process.
+
+**Skills demonstrated:**
+- ✅ **Active Directory** deployment and administration
+- ✅ **PowerShell automation** (bulk user creation script)
+- ✅ **Azure infrastructure** (VMs, VNet, NSG, Resource Groups)
+- ✅ **Group Policy Objects** (security configuration, account lockout policies)
+- ✅ **DNS and domain join** troubleshooting
+- ✅ **Professional documentation** with screenshots and cost tracking
+
+**Why this matters:** Active Directory is the backbone of most corporate environments. This lab proves I can deploy, configure, and troubleshoot enterprise identity management systems.
+
+---
+
+<div align="center">
+
+### 🔷 Microsoft 365 & Azure Administration Lab
+**Enterprise Cloud Platform Management**
+
+[![View Lab](https://img.shields.io/badge/View_Lab-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arthurperch/Microsoft-365)
+
+</div>
+
+**What I built:** Set up M365 developer tenant practicing daily Help Desk tasks (user provisioning, license assignment, password resets). Configured Microsoft Intune MDM with 5+ test devices (iOS/Windows/Android). Troubleshot Outlook/Exchange issues including mail flow, OST/PST repairs, and calendar sync problems.
+
+**Skills demonstrated:**
+- ✅ **Microsoft 365 administration** (user lifecycle, licenses, mailboxes)
+- ✅ **Exchange Online** troubleshooting (mail flow, profiles, OST/PST repairs)
+- ✅ **Microsoft Intune** (multi-platform MDM: iOS, Windows, Android)
+- ✅ **Azure AD** integration and user management
+- ✅ **Common Help Desk scenarios** (password resets, Outlook issues, MFA setup)
+- ✅ **ScanPST repairs** and auto-archive policy configuration
+
+**Why this matters:** M365 is ubiquitous in corporate IT. This lab demonstrates daily Help Desk tasks that I'd perform immediately in any support role.
+
+---
+
+<div align="center">
+
+### 🎫 osTicket Help Desk System
+**Enterprise Ticketing Platform Deployment**
+
+[![View Lab](https://img.shields.io/badge/View_Lab-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arthurperch/Configuring-osTicket)
+
+</div>
+
+**What I built:** Deployed osTicket help desk system on Azure Windows Server with IIS, PHP, MySQL stack. Configured for 1,000+ users with SLA tiers (Critical: 1hr, High: 4hrs, Normal: 24hrs, Low: 72hrs), role-based access, automated escalation, and knowledge base with 20+ SOPs.
+
+**Skills demonstrated:**
+- ✅ **Azure cloud deployment** (Windows Server, IIS, MySQL)
+- ✅ **SLA management** with priority-based escalation
+- ✅ **Ticketing workflows** and department routing
+- ✅ **RBAC** (role-based access control)
+- ✅ **Knowledge base creation** (SOPs for common issues)
+- ✅ **SMTP integration** for email ticketing
+
+**Why this matters:** Understanding ticketing systems and SLA management is critical for Help Desk roles. This demonstrates I can work within structured support frameworks.
+
+---
+
+## 💼 Professional Experience
+
+### IT Support Engineer (Internship) | LOG(N) Pacific | Dec 2024 - Present
+**Remote**
+
+- Provision and troubleshoot **Azure Virtual Machines**, **VNets**, and **Network Security Groups**
+- Support **osTicket ticketing platform** setup and maintenance
+- Administer **Active Directory**: user lifecycle, role assignments, security groups
+- Manage **Windows Server** file share permissions and access controls
+- Diagnose and resolve **network connectivity** and **DNS** issues
+
+---
+
+## 🛡️ Additional Projects
+
+<div align="center">
+
+### AWS Security Auditor
+**Automated Security Scanning & Compliance**
 
 <a href="https://github.com/arthurperch/aws-security-auditor" target="_blank">
 <img width="798" alt="AWS Security Auditor Dashboard" src="https://github.com/user-attachments/assets/90fc3291-d761-401f-9380-fa62e4689b99" />
@@ -111,206 +227,110 @@ I don't just know how to build things — I know how they fail and how to fix th
 
 </div>
 
-**What I built:** Python-based security scanner that automates AWS infrastructure audits across S3, EC2, IAM, CloudTrail, and Security Groups. Generates compliance reports with actionable remediation steps.
-
-**Skills demonstrated:**
-- ✅ AWS Boto3 SDK automation
-- ✅ Security best practices (CIS benchmarks)
-- ✅ Python scripting for cloud operations
-- ✅ React dashboard for data visualization
-- ✅ Real-world problem solving (not just a tutorial follow-along)
-
-**Personal project** - Built to learn security automation and demonstrate understanding of AWS architecture vulnerabilities.
+Python-based security scanner that automates AWS infrastructure audits (S3, EC2, IAM, CloudTrail, Security Groups). Generates compliance reports with remediation steps. Demonstrates AWS Boto3 SDK, security best practices, and React dashboard development.
 
 ---
 
 <div align="center">
 
-### ☁️ AWS Cloud Automation Lab
-**Multi-tier infrastructure with professional debugging practices**
+### AWS Cloud Automation Lab
+**Infrastructure as Code with Debug Runbooks**
 
 </div>
 
-**What I built:** Complete AWS stack using Terraform (VPC, EC2, ALB, RDS, IAM) with a Flask application. Most importantly: created **debug runbooks** and **incident logs** documenting every failure I encountered and how I fixed it.
+Complete AWS stack using Terraform (VPC, EC2, ALB, RDS, IAM) with Flask application. Created **debug runbooks** and **incident logs** documenting failures and fixes — demonstrating professional troubleshooting methodology beyond "it just works."
 
-**Skills demonstrated:**
-- ✅ Infrastructure as Code (Terraform)
-- ✅ AWS networking (VPC, subnets, security groups, ALB)
-- ✅ IAM troubleshooting (AccessDenied errors, policy debugging)
-- ✅ RDS connectivity and database security
-- ✅ **Professional documentation** (debug.md, incidents.md)
-- ✅ Systematic troubleshooting methodology
-
-**Why this matters:** Most portfolios show "it works." Mine shows "here's how it broke and how I fixed it" — which is what real engineering looks like.
+**Skills:** Terraform, AWS networking, IAM troubleshooting, RDS connectivity, professional documentation
 
 ---
 
-<div align="center">
-
-### 🤖 EcomFlow - AI Automation Lab
-**Distributed system managing 100K+ items**
-
-<a href="https://github.com/arthurperch/EcomFlow" target="_blank">
-<img width="793" alt="EcomFlow Dashboard" src="https://github.com/user-attachments/assets/e1ee5c9c-bcde-4009-8e93-e956acf55b08" />
-</a>
-
-[![View Repository](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arthurperch/EcomFlow)
-
-</div>
-
-**What I built:** Distributed automation system using 10 mini PCs coordinated through KVM switching. Built TypeScript automation to manage e-commerce listings across multiple marketplaces with AI-powered product discovery.
-
-**Skills demonstrated:**
-- ✅ Distributed system architecture
-- ✅ API integration (eBay, Amazon, AliExpress)
-- ✅ TypeScript/JavaScript automation
-- ✅ Multi-device infrastructure management
-- ✅ Chrome extension development
-- ✅ Scaling beyond personal use (100K+ managed items)
-
-**Personal business project** - Real infrastructure I built, maintain, and troubleshoot daily.
-
----
-
-<div align="center">
-
-### ⚙️ Flask MCP Server (AI CloudOps)
-**Conversational infrastructure management**
-
-<a href="https://github.com/arthurperch/flask-mcp-server" target="_blank">
-<img width="795" alt="Flask MCP Server" src="https://github.com/user-attachments/assets/2e241fd9-08b8-4905-bb5d-1610e8f7e27a" />
-</a>
-
-[![View Repository](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arthurperch/flask-mcp-server)
-
-</div>
-
-**What I built:** Flask API server implementing the Model Context Protocol (MCP) to enable natural language control of cloud infrastructure using AI.
-
-**Skills demonstrated:**
-- ✅ RESTful API design with Flask
-- ✅ AI/LLM integration (cutting-edge MCP protocol)
-- ✅ Cloud operations automation
-- ✅ Modern tech exploration and rapid learning
-
-**Learning project** - Exploring how AI can simplify cloud operations.
-
----
-
-<div align="center">
-
-### 🎫 osTicket on Azure
-**Ticketing system deployment for 1K+ users**
-
-<a href="https://github.com/arthurperch/osTicket-postreqs" target="_blank">
-<img width="793" alt="osTicket System" src="https://github.com/user-attachments/assets/dd066e8d-1abe-415a-9353-807132b45868" />
-</a>
-
-[![View Repository](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arthurperch/osTicket-postreqs)
-
-</div>
-
-**What I built:** Deployed osTicket on Azure VM with IIS, PHP, MySQL stack. Configured for 1000+ simulated users with role-based access, department workflows, and email integration.
-
-**Skills demonstrated:**
-- ✅ Azure cloud deployment
-- ✅ Windows Server administration (IIS)
-- ✅ MySQL database setup and optimization
-- ✅ User/role management at scale
-- ✅ Email system integration
-- ✅ Following enterprise deployment patterns
-
-**Learning lab** - Simulated enterprise environment to practice Help Desk/IT Support workflows.
-
----
-
-## 💼 Real-World Experience
-
-### ATM Network Operations (2020-Present)
-**Owner/Operator of 25+ ATM Machines**
-
-What this taught me:
-- 🔐 **Security mindset:** Perform penetration testing and vulnerability assessments on production hardware
-- 📊 **Monitoring & uptime:** Track system health, troubleshoot failures, minimize downtime
-- 🛠️ **Incident response:** Debug hardware/software issues under pressure
-- 💰 **Cost optimization:** Manage operational expenses and maximize efficiency
-- 📡 **Networking:** Secure network configuration, firewall rules, remote access
-
-This isn't just a side business — it's **real infrastructure I'm responsible for keeping secure and operational**.
-
----
-
-## 📚 What I'm Learning
-
-I'm focused on getting my first IT role while continuing to build skills:
+## 📚 Certifications & Learning
 
 **Current certifications:**
-- ✅ AWS Solutions Architect Associate
-- ✅ AWS SysOps Administrator Associate
+- ✅ **AWS Certified Solutions Architect - Associate** (2024)
+- ✅ **AWS Certified SysOps Administrator - Associate** (2024)
 
-**Exploring next:**
-- 🔄 CompTIA Network+ (networking fundamentals)
-- 🔄 CompTIA Security+ (security baseline)
-- 🔄 Azure Fundamentals (AZ-900)
+**In Progress:**
+- 🔄 **CompTIA Security+** (Expected Q2 2025)
 
-**Active projects:**
-- 🔄 Social video chat app (React Native for iOS/Android)
-- 🔄 Advanced Terraform modules and workflows
-- 🔄 Kubernetes learning lab
+**Exploring:**
+- 🔄 **Azure Fundamentals (AZ-900)**
+- 🔄 **CompTIA Network+**
 
 ---
 
 ## 🎯 What I'm Looking For
 
-I'm seeking **any entry-level IT role** where I can:
-- ✅ Learn from experienced engineers
-- ✅ Apply my cloud and automation skills in a team environment
-- ✅ Troubleshoot real production issues
-- ✅ Grow into DevOps/Cloud Engineer roles over time
+I'm seeking **Help Desk, Cloud Support, or Junior SysAdmin roles** where I can:
+- ✅ Apply my Tier 2 support experience and troubleshooting skills
+- ✅ Work with Active Directory, M365, and cloud infrastructure
+- ✅ Learn from experienced engineers and grow professionally
+- ✅ Leverage my AWS certifications and lab experience
+- ✅ Advance toward Cloud Engineer or DevOps roles over time
 
 **Open to:**
-- 🔹 Help Desk / IT Support
-- 🔹 Cloud Support Engineer
-- 🔹 Junior SysAdmin
-- 🔹 NOC Technician
-- 🔹 Junior DevOps
-- 🔹 SOC Analyst
+- 🔹 **Help Desk / Desktop Support**
+- 🔹 **Cloud Support Engineer**
+- 🔹 **Junior System Administrator**
+- 🔹 **NOC Technician**
+- 🔹 **IT Support Specialist**
 
-**Location:** Pacific Northwest | **Remote:** Yes | **Willing to relocate:** Yes
-
-I'm not looking for a senior role — I want to **break into the industry, prove myself, and grow from there**.
+**Location:** Pacific Northwest (Portland area)  
+**Work arrangement:** On-site, Hybrid, or Remote  
+**Willing to relocate:** Yes  
+**Availability:** Immediate
 
 ---
 
-## 💡 My Approach to Engineering
+## 💡 My Approach to IT Support
 
-> "I don't just want to know how systems work — I want to understand how they break."
+> "I don't just want to know how to fix issues — I want to understand why they happened and how to prevent them."
 
-**What makes me different:**
-- 📖 I document failures, not just successes
-- 🔍 I dig into root causes, not just symptoms
-- 🛠️ I build runbooks and incident logs like a professional engineer
-- 🧠 I learn by doing, breaking, fixing, and iterating
-- 🤝 I value feedback and continuous improvement
+**What makes me effective:**
+- 🎫 **Systematic troubleshooting** using proven methodologies
+- 📖 **Documentation-first mindset** - I create runbooks and SOPs
+- 🔍 **Root cause analysis** - I dig beyond symptoms
+- 🤝 **User-focused communication** - I explain technical issues clearly
+- 🛠️ **Continuous learning** - I build labs to understand new technologies
+- 🚀 **Growth mindset** - I see every ticket as a learning opportunity
 
 **My philosophy:**
-- Start small, iterate often
-- Automate repetitive tasks
-- Security from the ground up
-- Clear documentation saves time
-- Failure is the best teacher
+- Fix the problem, then prevent it from recurring
+- Document solutions for the next person
+- Always ask "why did this break?"
+- Security and uptime are everyone's responsibility
+- Be the support tech you'd want to work with
+
+---
+
+## 📊 By The Numbers
+
+<div align="center">
+
+| Metric | Value |
+|--------|-------|
+| **IT Support Experience** | 2.5 years (Tier 2) |
+| **Users Supported** | 30,000+ (enterprise scale) |
+| **Ticket Resolution Rate** | 95% (ServiceNow) |
+| **Weekly Ticket Volume** | 250+ incidents |
+| **AWS Certifications** | 2 (Solutions Architect, SysOps) |
+| **Enterprise Labs Built** | 4 (iOS MDM, AD, M365, osTicket) |
+| **PowerShell Users Created** | 10,000 (bulk automation) |
+| **Physical Devices Managed** | 3 iPhones (Jamf Now MDM) |
+</div>
 
 ---
 
 ## 📫 Let's Connect
 
-I'm always open to discussing cloud architecture, automation, troubleshooting war stories, or entry-level opportunities.
+I'm actively seeking Help Desk, Cloud Support, or Junior SysAdmin opportunities. Open to discussing IT support workflows, troubleshooting methodologies, or how my lab experience translates to production environments.
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleg-perchatkin-b90472161/)
 [![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:olegperchatkin@gmail.com)
-[![GitHub](https://img.shields.io/badge/View_My_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arthurperch)
+[![GitHub](https://img.shields.io/badge/View_All_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arthurperch)
+[![Resume](https://img.shields.io/badge/Download_Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/your-resume-link)
 
 </div>
 
@@ -318,10 +338,12 @@ I'm always open to discussing cloud architecture, automation, troubleshooting wa
 
 <div align="center">
 
-### 💭 _"The best engineers aren't afraid to admit they don't know everything — they're just really good at figuring it out."_
+### 💭 _"The best IT professionals don't just solve tickets — they understand the systems behind them."_
 
-**Thanks for visiting!** ⭐ If you find my projects interesting, give them a star. If you're hiring for entry-level IT roles, let's talk.
+**Thanks for visiting!** ⭐ If my projects demonstrate the skills you're looking for, let's talk about opportunities.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=arthurperch&color=blueviolet&style=for-the-badge)
+
+**📧 Actively seeking Help Desk, Cloud Support, and Junior SysAdmin roles**
 
 </div>
