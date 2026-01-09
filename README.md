@@ -60,7 +60,6 @@ print(f"{me.experience} | {me.seeking()}")
 
 Most Help Desk candidates have basic troubleshooting skills. I combine **real enterprise support experience** with **advanced technical labs** that demonstrate production-grade thinking:
 
-- ✅ **2.5 years supporting 30,000+ users** with 95% resolution rate
 - ✅ **ServiceNow ticketing** experience (250+ tickets/week)
 - ✅ **Active Directory** and **Microsoft 365** in production environments
 - ✅ Built **iOS Fleet Management lab** with Jamf Now MDM (3 physical iPhones)
@@ -310,7 +309,6 @@ I'm seeking **Help Desk, Cloud Support, or Junior SysAdmin roles** where I can:
 | Metric | Value |
 |--------|-------|
 | **IT Support Experience** | 2.5 years (Tier 2) |
-| **Users Supported** | 30,000+ (enterprise scale) |
 | **Ticket Resolution Rate** | 95% (ServiceNow) |
 | **Weekly Ticket Volume** | 250+ incidents |
 | **AWS Certifications** | 2 (Solutions Architect, SysOps) |
