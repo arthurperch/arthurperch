@@ -1,6 +1,6 @@
 <div align="center">
 
-# Oleg Perchatkin
+# Oleg Arthur Perchatkin 
 
 ### | IT Support Professional | AWS Certified | Building Enterprise-Grade Labs |
 
