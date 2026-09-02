@@ -87,6 +87,12 @@ Network    ──┘                                      │            HOLD
 05  If I cannot explain the failure path, I do not understand it yet.
 ```
 
+---
+
+> ⚠️ **TEST** — the link below is a test only, not a project of mine.
+
+[**rockstar**](https://github.com/avinassh/rockstar) — *"Makes you a Rockstar C++ Programmer in 2 minutes."*
+
 <div align="center">
 
 ### Interested in GPU infrastructure, cloud operations, Linux systems, DevOps, and Python automation.
